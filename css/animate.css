@@ -3288,47 +3288,39 @@ Copyright (c) 2015 Daniel Eden
 }
 .btn {
   border: none; /* Remove borders */
-  color: white; /* Add a text color */
+  color: black; /* Add a text color */
   padding: 14px 28px; /* Add some padding */
   cursor: pointer; /* Add a pointer cursor on mouse-over */
 }
 
-.machine_learning {background-color: #04AA6D;} /* Green */
-.machine_learning:hover {background-color: #46a049;}
+.machine_learning {background-color: #7FFFD4;} /* Green */
+.machine_learning:hover {background-color: #7FFFD3;}
 
-.Data_Analysis {background-color: #2196F3;} /* Blue */
-.Data_Analysis:hover {background: #0b7dda;}
+.Data_Analysis {background-color: #97f0f1;} /* Blue */
+.Data_Analysis:hover {background: #97f0f1;}
 
-.Deep_learning {background-color: #ff9800;} /* Orange */
-.Deep_learning:hover {background: #e68a00;}
+.Deep_learning {background-color: #FFA07A;} /* Orange */
+.Deep_learning:hover {background: #FFA07B;}
 
-.Data_Visulization {background-color: #f44336;} /* Red */
-.Data_Visulization:hover {background: #da190b;}
+.Data_Visulization {background-color: #f3657b;} /* Red */
+.Data_Visulization:hover {background: #f3657a;}
 
-.default {background-color: #e7e7e7; color: black;} /* Gray */
-.default:hover {background: #ddd;}
-
-
-.nlp {background-color: #6851a0; color: black;} /* Gray */
-.nlp:hover {background: #6851a0;}
+.default {background-color: #DEB887; color: black;} /* Gray */
+.default:hover {background: #DEB888;}
 
 
-.Djao {background-color: #43ced8;}
-.Djao:hover {background: #43ced5;}
+.nlp {background-color: #9370DB; color: black;} /* Gray */
+.nlp:hover {background: #9370DC;}
+
+
+.Djao {background-color: #87CEFA;}
+.Djao:hover {background: #87CEFB;}
 
 .flsk {background-color: #e48db5;}
 .flsk:hover {background: #e48db3;}
 
-.stl {background-color: #f7e70e; }
-.stl:hover {background: #f7e70d;}
+.stl {background-color: #FFFACD; }
+.stl:hover {background: #FFFACC;}
 
 
-.nlp {background-color: #6851a0; } 
-.nlp:hover {background: #6851a0;}
 
-
-.nlp {background-color: #6851a0; } 
-.nlp:hover {background: #6851a0;}
-
-.nlp {background-color: #6851a0; }
-.nlp:hover {background: #6851a0;}
